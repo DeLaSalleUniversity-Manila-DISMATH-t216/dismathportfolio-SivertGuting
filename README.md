@@ -3,7 +3,9 @@ dismathportfolio-SivertGuting created by Classroom for GitHub
 
 #WEEK 1
 -I was introduced to and was given a preview of what this course is about.
+
 -I learned the basic symbols used in DISMATH.
+
 -I learned that DISMATH is a fun course, though quite hard and challenging.
 
 #WEEK 2
