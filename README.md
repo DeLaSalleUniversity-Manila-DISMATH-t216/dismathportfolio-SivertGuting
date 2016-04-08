@@ -79,4 +79,6 @@ I also learned that 0 is even. :D
 -FINAL LECTURE WEEK!
 -I learned the Handshaking Theorem.
 -I learned the Euler Circuit.
--I learned the Euler Circuit.-I learned the Euler Circuit.
+-I learned the Euler Path.
+-I learned the Hamilton Circuit.
+-I learned the Hamilton Path.
