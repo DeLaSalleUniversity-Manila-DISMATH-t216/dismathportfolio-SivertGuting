@@ -1,4 +1,4 @@
-# dismathportfolio- Siver Guting EK
+# dismathportfolio- Sivert Guting EK
 dismathportfolio-SivertGuting created by Classroom for GitHub
 
 #WEEK 1
@@ -44,7 +44,9 @@ I also learned that 0 is even. :D
 
 #WEEK 5
 -I learned about Program Correctness and the two steps involving it namely Partial Correctness - initial assertion - final assertion and showing that the program terminates correctly.
+
 -I also learned the Program Algorithms. I had a hard time understanding this topic.
+
 -I also learned some familiar topics like sets and the  venn diagram.
 
 #WEEK 6
@@ -55,21 +57,28 @@ I also learned that 0 is even. :D
 
 #WEEK 8
 -I learned about algorithms. I find it hard because I'm not good at programming.
+
 -I also learned the pseudocodes. These topics are similar.
+
 -We watched the dancing people so we can understand the Bubble Sort easily.
 
 #WEEK 9
 -I learned the two searching algorithms. These are the Linear search and the Binary search.
+
 -I found the Binary search somewhat confusing.
 
 #WEEK 10
 -I learned the Bubble Sort, Insertion Sort and the Greedy Algorithm.
+
 -Bubble Sort and Insertion Sort are used in sorting elements in a set. The Insertion is quite hard.
 
 #WEEK 11
 -I learned the Growth of functions.
+
 -I learned the Big O - upper limit.
+
 -I learned the Big Omega - lower limit.
+
 -I learned the Big Theta - both upper and lower limit with different numerical coefficient.
 
 #WEEK 12
@@ -78,7 +87,11 @@ I also learned that 0 is even. :D
 #WEEK 13
 -FINAL LECTURE WEEK!
 -I learned the Handshaking Theorem.
+
 -I learned the Euler Circuit.
+
 -I learned the Euler Path.
+
 -I learned the Hamilton Circuit.
+
 -I learned the Hamilton Path.
